@@ -9,9 +9,9 @@ As a Data Analyst at **TelcoCo**—a consumer telecommunications provider operat
 - **Category 3: Account & Billing Information**  
 - **Category 4: Contract Type & Tenure Risk**
 
-The SQL queries used to inspect and clean the raw data can be found here: [SQL Inspection & Cleaning](./sql/inspection_and_cleaning.sql)  
-Targeted SQL queries for business-driven questions can be found here: [Business-Question SQL](./sql/business_questions.sql)  
-An interactive Power BI dashboard is published here: [Power BI Report ↗](https://app.powerbi.com/…your-report-link…)
+The SQL queries used to inspect and clean the raw data can be found [here](#)
+Targeted SQL queries for business-driven questions can be found [here](https://github.com/Rohan-Morajkar/Customer-churn-and-risk-analysis/blob/main/Clean%20Dataset.xlsx)
+An interactive Power BI dashboard is published [here]()
 
 
 
