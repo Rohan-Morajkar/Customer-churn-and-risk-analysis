@@ -17,7 +17,7 @@ An interactive Power BI dashboard is published [here](https://github.com/Rohan-M
 
 
 
-###  Data Cleaning Process
+##  Data Cleaning Process
 
 The dataset underwent a thorough cleaning process to ensure accuracy and consistency before analysis. Below are the key actions taken:
 
